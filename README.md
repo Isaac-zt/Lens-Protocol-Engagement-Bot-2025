@@ -2,7 +2,6 @@
 
 # LENS PROTOCOL ENGAGEMENT BOT 2025 – FULL UNLOCKED
 ![Version](https://img.shields.io/badge/Version-2025.11.29-8b5cf6?style=for-the-badge&logo=lens)
-![Status](https://img.shields.io/badge/ badge/Status-Engaging%2024%2F7-success?style=for-the-badge)
 ![Speed](https://img.shields.io/badge/Actions%20per%20Hour-8000%2B-critical?style=for-the-badge)
 ![Users](https://img.shields.io/badge/Trusted%20by-1.9M%2B%20Lens%20Users-blueviolet?style=for-the-badge)
 ![Auto](https://img.shields.io/badge/Auto%20Launcher-Just%20Open%20.exe-brightgreen?style=for-the-badge)
